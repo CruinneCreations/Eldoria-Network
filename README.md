@@ -1,12 +1,12 @@
+
+![EldoriaLogo](https://github.com/RaoDevelopment/Eldoria-Network/assets/50781793/e775850c-6ebc-4f58-9395-116eb23da97a)
+
 # Eldoria-Network
-A Rao Development network for unique Minecraft games.
+A Minecraft server packed of unique gamemodes created by Rao Development.
 
-• https://eldoria.net
+- https://eldoria.net
+- https://github.com/EldoriaNetwork
+- https://twitter.com/EldoriaNetwork
+- support@eldoria.net
 
-• https://github.com/EldoriaNetwork
-
-• https://twitter.com/EldoriaNetwork
-
-• support@eldoria.net
-
-Find out what Eldoria is here: https://eldoria.net/raodev
+Find out more about Eldoria @ https://eldoria.net/raodev
