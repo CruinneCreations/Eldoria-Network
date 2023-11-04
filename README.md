@@ -11,4 +11,4 @@ A Minecraft server network packed full of unique gamemodes created by Rao Develo
 - https://twitter.com/EldoriaNetwork
 - support@eldoria.net
 
-Find out more about Eldoria @ https://eldoria.net/raodev
+Find out more about Eldoria @ https://eldoria.net/
