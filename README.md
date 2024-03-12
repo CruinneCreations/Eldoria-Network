@@ -4,7 +4,7 @@
 # Eldoria-Network
 A Minecraft server network packed full of unique games created by Cruinne Creations.
 
-*The project is currently in development and is expected to release in mid-2024.*
+*The project is currently in development and is expected to release in mid-2025.*
 
 - https://eldoria.net
 - https://github.com/EldoriaNetwork
